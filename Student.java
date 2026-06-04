@@ -10,6 +10,6 @@ public class Student {
         System.out.println("Student ID: " + studentID);
         System.out.println("Student Name: " + studentName);
         System.out.println("CGPA: " + cgpa);
-        System.out.println("Department: " + department);
+        System.out.println("Department: " + depppartment);
     }
 }
